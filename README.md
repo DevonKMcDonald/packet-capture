@@ -29,4 +29,4 @@ This Python script captures live network traffic from a specified network interf
 To run the script, use the following command format:
 
 ```sh
-sudo python capture_traffic.py -d <duration_in_seconds> -o <output_file>
+sudo python packetcapture.py -d <duration_in_seconds> -o <output_file>
